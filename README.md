@@ -34,10 +34,6 @@ python -m spacy download en_core_web_trf
 
 ```
 
-## Run tests
-
-The [examples](/examples) folder contains a sample input file that can be processed using the [anonymizer_tool.ipynb](./anonymizer_tool.ipynb)
-
 ## [License](/LICENSE)
 
 Copyright (c) 2022 dcl91
